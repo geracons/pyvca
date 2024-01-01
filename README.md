@@ -1,5 +1,12 @@
 Motion detector with Py and OpenVC v1.1
 
+Lib:
+NumPy
+Logging
+OpenVC
+Tkinter
+
+
 Funcionalidades:
 - Acepta extensiones .mp4, .avi y .mkv
 - Posibilidad de seleccionar velocidad. Por defecto 1.0
